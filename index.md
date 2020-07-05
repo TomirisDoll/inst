@@ -1,2 +1,2 @@
-## Мой ETSY магазин
-https://www.etsy.com/shop/TomirisDoll
+### Мой ETSY магазин
+### https://www.etsy.com/shop/TomirisDoll
