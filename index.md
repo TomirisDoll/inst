@@ -1,6 +1,6 @@
 <div onclick="window.open('https://www.etsy.com/shop/TomirisDoll');" style="cursor:pointer;border-width:1px;border-style:solid;background-color:#aa0000;width:100%;text-align:center;color:#ffffff;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;
       -webkit-border-radius:50px;">ETSY магазин</div>
-<div onclick="window.open('tomidoll.com');" style="cursor:pointer;border-width:1px;border-style:solid;background-color:#adc54e;width:100%;text-align:center;color:#3a1d03;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;
+<div onclick="window.open('tomidoll.com');" style="cursor:pointer;border-width:1px;border-style:solid;background-color:#adc54e;width:100%;text-align:center;color:#cee66e;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;
       -webkit-border-radius:50px;">Все мастер-классы</div>
       
 ###    []()
