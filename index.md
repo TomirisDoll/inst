@@ -9,4 +9,5 @@
 
 ###    **_[Мой YouTube канал](https://www.youtube.com/channel/UCTKcCSqvU8Fucn1ifDGNxIQ/videos)_**
 
+<div onclick="alert('Кнопка нажата')" style="cursor:pointer;border-width:1px;border-style:solid;background-color:gray;width:100px;text-align:center;color:#ffffff;">Текст</div> 
 
