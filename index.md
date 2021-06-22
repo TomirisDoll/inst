@@ -11,6 +11,6 @@
 
 <div onclick="alert('Кнопка нажата')" style="cursor:pointer;border-width:1px;border-style:solid;background-color:gray;width:100px;text-align:center;color:#ffffff;">Текст</div> 
 
-<div onclick="window.open('course3');" style="cursor:pointer;border-width:1px;border-style:solid;background-color:gray;width:100px;text-align:center;color:#ffffff;-moz-border-radius: 12px;
-      -webkit-border-radius: 12px;">Текст</div>
+<div onclick="window.open('https://www.etsy.com/shop/TomirisDoll');" style="cursor:pointer;border-width:1px;border-style:solid;background-color:gray;width:100px;text-align:center;color:#ffffff;-moz-border-radius: 12px;
+      -webkit-border-radius: 12px;">ETSY магазин</div>
 
