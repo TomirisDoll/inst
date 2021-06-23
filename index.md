@@ -9,7 +9,18 @@
 
 <div style="display: block; margin-left: auto;  margin-right: auto"><div onclick="window.open('https://www.youtube.com/channel/UCTKcCSqvU8Fucn1ifDGNxIQ/videos');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#fdd8b7;width:100%;text-align:center;color:#3a1d03;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-top: 8px;
       -webkit-border-radius:50px;">Мой YouTube канал</div></div>
-      
+    
+     
+     
+     
+   <div style="display: block; margin-left: auto;  margin-right: auto"><div onclick="window.open(' https://wa.me/<+79146975970>');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#96f5b8;width:100%;text-align:center;color:#3a1d03;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-top: 8px;
+      -webkit-border-radius:50px;">Написать в WhatsApp</div></div>  
+     
+     
+     
+     
+     
+     
 ###    [Видеоуроки 3,5ч. Тело куклы Мадлен 25 см](https://vk.com/club197179972)
 ###    [МК кукла Элли 19 и 26 см](https://vk.com/club195854179)
 ###    [МК Ведьмочка Хельга](https://vk.com/club199487143)
