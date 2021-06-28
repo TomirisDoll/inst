@@ -16,7 +16,8 @@
   </head>
 
   <body>
-    <header style="background:#e6a0a0f5 url(../images/header-bg.jpg) 0 0 repeat-x;">
+    <header style="background:#e6a0a0f5 url(../images/header-bg.jpg) 0 0 repeat-x;padding-top: 0;
+    padding-bottom: 10px;border-bottom: solid 0;"">
       <div class="inner">
         <a href="{{ '/' | absolute_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -29,8 +30,7 @@
          
         {% endif %}
       </div>
-    </header style="background:#f1bccdf5 url(../images/header-bg.jpg) 0 0 repeat-x;padding-top: 0;
-    padding-bottom: 0;border-bottom: solid 0;">
+    </header >
 
     <div id="content-wrapper">
       <div class="inner clearfix">
